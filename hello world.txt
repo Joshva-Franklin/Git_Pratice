@@ -1,0 +1,7 @@
+python:
+
+print("hello world")
+
+c++:
+
+cout << "hello world" << endl;
